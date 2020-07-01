@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LinearLayout_Games</string>
+    <array name="gameslist">
+        <item>Candy Crush</item>
+        <item>8 Ball Pool</item>
+        <item>Subway Surfers</item>
+        <item>Sudoku</item>
+        <item>Word Search</item>
+        <item>PUBG</item>
+        <item>Chess</item>
+        <item>Cube</item>
+        <item>Ludo</item>
+        <item>UNO</item>
+    </array>
+</resources>
