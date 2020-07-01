@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/m1" android:title="Settings" />
+    <item android:id="@+id/m2" android:title="Background">
+        <menu>
+            <item android:id="@+id/sub1" android:title="Red" />
+            <item android:id="@+id/sub2" android:title="Blue" />
+            <item android:id="@+id/sub3" android:title="Green" />
+        </menu>
+    </item>
+    <item android:id="@+id/m3" android:title="Tools" />
+</menu>

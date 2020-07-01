@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Regestration_Login_Database</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+</resources>
